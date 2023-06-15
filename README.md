@@ -22,16 +22,16 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: kellsouza@gmail.com">
-     E-mail
+     <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/raquel-lima-s-de-souza-20b621229/">
-     Linkedin
+   <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.youtube.com">
-     Youtube
+      <img width="35" src="youtube.svg">
     </a>
     <a href = "https://www.instagram.com/t0bby97/">
-     Instagram
+     <img width="25" src="instagram.png">
     </a>
 </div>
   
